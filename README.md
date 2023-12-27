@@ -1,6 +1,6 @@
 # EDA - Productivity vs. Exogen factors
 
-## Juan Antonio de la Cuadra Sánchez
+***Juan Antonio de la Cuadra Sánchez*** - *December 2023*
 
 Project in which it was asked to see how different exogenous factors affect productivity.
 
