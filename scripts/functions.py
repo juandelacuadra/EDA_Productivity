@@ -3,7 +3,6 @@ import requests
 from IPython.display import HTML
 from IPython.display import display
 
-
 def data_report(df):
     """
     Generate a summary report for a DataFrame.
